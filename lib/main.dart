@@ -4,6 +4,7 @@ import 'package:rz_profile/screen/home_screen.dart';
 void main() => runApp(
       MaterialApp(
         debugShowCheckedModeBanner: false,
+        title: "Rz Profile",
         home: home(),
       ),
     );
