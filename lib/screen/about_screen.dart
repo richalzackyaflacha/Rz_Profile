@@ -275,7 +275,7 @@ class AboutScreen extends StatelessWidget {
                               ),
                             ),
                             Container(
-                              width: 250,
+                              width: 210,
                               child: Text(
                                 " HTML",
                                 style: TextStyle(
@@ -320,7 +320,7 @@ class AboutScreen extends StatelessWidget {
                               ),
                             ),
                             Container(
-                              width: 250,
+                              width: 210,
                               child: Text(
                                 " CSS",
                                 style: TextStyle(
@@ -365,7 +365,7 @@ class AboutScreen extends StatelessWidget {
                               ),
                             ),
                             Container(
-                              width: 250,
+                              width: 210,
                               child: Text(
                                 " JavaScript",
                                 style: TextStyle(

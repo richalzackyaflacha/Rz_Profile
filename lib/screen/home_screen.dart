@@ -38,7 +38,7 @@ class HomeScreen extends StatelessWidget {
             mainAxisAlignment: MainAxisAlignment.end,
             children: <Widget>[
               Container(
-                height: 400,
+                height: 350,
                 width: MediaQuery.of(context).size.width,
                 margin: EdgeInsets.fromLTRB(50, 0, 50, 0),
                 decoration: BoxDecoration(
@@ -80,7 +80,7 @@ class HomeScreen extends StatelessWidget {
                       "Richal Zacky",
                       style: TextStyle(
                         fontSize: 35,
-                        fontWeight: FontWeight.w500,
+                        fontWeight: FontWeight.w700,
                         color: Color.fromARGB(255, 152, 244, 3),
                         letterSpacing: .5,
                       ),
@@ -156,7 +156,7 @@ class HomeScreen extends StatelessWidget {
                             "About Me",
                             style: TextStyle(
                               fontSize: 25,
-                              fontWeight: FontWeight.w500,
+                              fontWeight: FontWeight.w600,
                               letterSpacing: .5,
                             ),
                           ),
